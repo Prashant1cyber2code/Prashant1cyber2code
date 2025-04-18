@@ -43,7 +43,9 @@ You can click the Preview link to take a look at your changes.
  
 ###
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prashant1cyber2code&theme=dark&show_icons=true&hide_border=true&count_private=true)" width="100%"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Prashant1cyber2code&theme=dark&show_icons=true&hide_border=true&count_private=true)" width="100%"/> -->
+   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Prashant1cyber2code&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
+<br>
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant1cyber2code&theme=dark&hide_border=true" height="100%"/>
