@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 💫 About Me:
 </br>
-I'm Prashant Kumar, an aspiring security developer passionate about ethical hacking, crime investigations, AI in security, and applying my skills in real-world cyber defense projects.
+I'm Prashant Kumar, an aspiring security developer🧑‍💻 passionate about ethical hacking, crime investigations🔍, AI in security🪪, and applying my skills in real-world cyber defense projects.
 
 
 ## 🌐 Socials:
