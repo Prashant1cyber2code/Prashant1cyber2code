@@ -6,7 +6,7 @@ Prashant1cyber2code/Prashant1cyber2code is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 ---> 
 
-<!--<h1 align="center">Hi 👋, I'm  Prashant</h1>
+<h1 align="center">Hi 👋, I'm  Prashant</h1>
 
 <figure align="center" >
   <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="object-fit:cover;" />
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <br/>
-  <h2 align="center">Programming languages & Tools</h2>
+ <!-- <h2 align="center">Programming languages & Tools</h2>
 
 <div align="center" style="display:flex; justify-content:space-around;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
