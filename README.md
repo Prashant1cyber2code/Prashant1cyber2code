@@ -90,3 +90,11 @@ I'm Prashant Kumar, an aspiring security developer🧑‍💻 passionate about e
 [![](https://visitcount.itsvg.in/api?id=Prashant1cyber2code&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Prashant1cyber2code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Prashant1cyber2code&icon=3&color=3)](https://visitcount.itsvg.in)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prashant1cyber2code&label=Profile%20views&color=0e75b6&style=flat" alt="Prashant1cyber2code" /> </p>
